@@ -28,7 +28,8 @@
     "triggers": "Utløsere",
     "cameraManagement": "Administrasjon",
     "cameraReview": "Inspeksjon",
-    "roles": "Roller"
+    "roles": "Roller",
+    "profiles": "Profiler"
   },
   "dialog": {
     "unsavedChanges": {
@@ -408,7 +409,7 @@
     },
     "restart_required": "Omstart påkrevd (masker/soner endret)",
     "motionMaskLabel": "Bevegelsesmaske {{number}}",
-    "objectMaskLabel": "Objektmaske {{number}} ({{label}})"
+    "objectMaskLabel": "Objektmaske {{number}}"
   },
   "motionDetectionTuner": {
     "title": "Finjustering av bevegelsesdeteksjon",
@@ -700,7 +701,7 @@
         "snapshots": "Stillbilder",
         "cleanCopySnapshots": "<code>clean_copy</code>-stillbilder"
       },
-      "cleanCopyWarning": "Noen kameraer har stillbilder aktivert, men ren kopi er deaktivert. Du må aktivere <code>clean_copy</code> i stillbilde-konfigurasjonen for å kunne sende bilder fra disse kameraene til Frigate+."
+      "cleanCopyWarning": "Noen kameraer har stillbilder deaktivert"
     },
     "toast": {
       "success": "Frigate+ innstillingene er lagret. Start Frigate på nytt for å aktivere endringene.",
@@ -1074,7 +1075,7 @@
       },
       "streamDetails": "Strømdetaljer",
       "probing": "Test kamera...",
-      "retry": "Prøv på nytt",
+      "retry": "Prøv igjen",
       "testing": {
         "probingMetadata": "Sjekker metadata for kamera...",
         "fetchingSnapshot": "Henter stillbilde fra kamera..."
