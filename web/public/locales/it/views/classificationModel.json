@@ -12,8 +12,12 @@
   },
   "toast": {
     "success": {
-      "deletedCategory": "Classe eliminata",
-      "deletedImage": "Immagini eliminate",
+      "deletedCategory_one": "Classe eliminata",
+      "deletedCategory_many": "",
+      "deletedCategory_other": "",
+      "deletedImage_one": "Immagini eliminate",
+      "deletedImage_many": "",
+      "deletedImage_other": "",
       "categorizedImage": "Immagine classificata con successo",
       "trainedModel": "Modello addestrato con successo.",
       "trainingModel": "Avviato con successo l'addestramento del modello.",

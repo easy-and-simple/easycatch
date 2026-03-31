@@ -1,1 +1,9 @@
-{}
+{
+    "safe_mode": {
+        "label": "Modalità sicura",
+        "description": "Quando abilitato avvia Frigate in modalità sicura con funzionalità ridotte per identificare i problemi."
+    },
+    "environment_vars": {
+        "label": "Variabili d'ambiente"
+    }
+}

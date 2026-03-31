@@ -1,1 +1,14 @@
-{}
+{
+    "label": "Configurazione telecamera",
+    "name": {
+        "label": "Nome telecamera",
+        "description": "Il nome della telecamera è obbligatorio"
+    },
+    "friendly_name": {
+        "description": "Il nome descrittivo della telecamera mostrato nella interfaccia di Frigate"
+    },
+    "enabled": {
+        "label": "Abilitato",
+        "description": "Abilitato"
+    }
+}
