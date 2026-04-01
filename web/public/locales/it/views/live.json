@@ -1,5 +1,7 @@
 {
-  "documentTitle": "Dal vivo - Frigate",
+  "documentTitle": {
+    "default": "In diretta - Frigate"
+  },
   "documentTitle.withCamera": "{{camera}} - Dal vivo - Frigate",
   "lowBandwidthMode": "Modalità a bassa larghezza di banda",
   "twoWayTalk": {

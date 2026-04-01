@@ -1,5 +1,7 @@
 {
-  "documentTitle": "Direkte - Frigate",
+  "documentTitle": {
+    "default": "Direkte - Frigate"
+  },
   "lowBandwidthMode": "Lav båndbreddemodus",
   "documentTitle.withCamera": "{{camera}} - Direkte - Frigate",
   "ptz": {
