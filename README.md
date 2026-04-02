@@ -14,7 +14,7 @@ A complete and local NVR designed for [Home Assistant](https://www.home-assistan
 
 Use of a GPU or AI accelerator such as a [Google Coral](https://coral.ai/products/) or [Hailo](https://hailo.ai/) is highly recommended. AI accelerators will outperform even the best CPUs with very little overhead.
 
-- Tight integration with Home Assistant via a [custom component](https://github.com/blakeblackshear/frigate-hass-integration)
+- Tight integration with Home Assistant via a [custom component]()
 - Designed to minimize resource use and maximize performance by only looking for objects when and where it is necessary
 - Leverages multiprocessing heavily with an emphasis on realtime over processing every frame
 - Uses a very low overhead motion detection to determine where to run object detection
