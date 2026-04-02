@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="logo" src="docs/static/img/frigate.png">
+  <img align="center" alt="logo" src="">
 </p>
 
 # Object Detection for IP Cameras
