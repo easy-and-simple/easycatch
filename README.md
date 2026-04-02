@@ -2,13 +2,13 @@
   <img align="center" alt="logo" src="docs/static/img/frigate.png">
 </p>
 
-# Frigate - NVR With Realtime Object Detection for IP Cameras
+# Object Detection for IP Cameras
 
 <a href="https://hosted.weblate.org/engage/frigate-nvr/">
-<img src="https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg" alt="Translation status" />
+<img src="" />
 </a>
 
-\[English\] | [简体中文](https://github.com/blakeblackshear/frigate/blob/dev/README_CN.md)
+\[English\] | [简体中文](https://github.com/easy-and-simple/easycatch/blob/dev/README_CN.md)
 
 A complete and local NVR designed for [Home Assistant](https://www.home-assistant.io) with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras.
 
